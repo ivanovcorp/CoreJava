@@ -1,10 +1,3 @@
-/*
- * Java_06_RegularExpressions.java
- *
- * created at Sep 8, 2017 by iv.ivanov <iv.ivanov@seeburger.de>
- *
- * Copyright (c) SEEBURGER AG, Germany. All Rights Reserved.
- */
 package Java_Advanced_01;
 
 import java.io.BufferedReader;
@@ -18,7 +11,7 @@ import java.util.regex.Pattern;
 /**
  * Java Regular Expressions Practical Examples
  *
- * @author Ivan Ivanov(cryptex)
+ * @author Ivan Ivanov(whoami)
  */
 public class Java_06_RegularExpressions
 {

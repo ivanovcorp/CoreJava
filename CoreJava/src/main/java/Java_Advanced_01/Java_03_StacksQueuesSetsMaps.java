@@ -11,7 +11,7 @@ import java.util.TreeSet;
 /**
  * Java Fundamental Data Structures Practical Examples
  *
- * @author Ivan Ivanov(cryptex)
+ * @author Ivan Ivanov(whoami)
  */
 public class Java_03_StacksQueuesSetsMaps
 {

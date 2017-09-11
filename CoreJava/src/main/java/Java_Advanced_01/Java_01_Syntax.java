@@ -6,7 +6,7 @@ import java.util.Scanner;
 /**
  * Java Syntax Practical Examples
  *
- * @author Ivan Ivanov(cryptex)
+ * @author Ivan Ivanov(whoami)
  */
 public class Java_01_Syntax
 {

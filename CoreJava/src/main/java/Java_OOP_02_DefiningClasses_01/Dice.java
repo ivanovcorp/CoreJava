@@ -2,8 +2,15 @@ package Java_OOP_02_DefiningClasses_01;
 
 import java.util.Random;
 
+/**
+ * Java Defining Classes Practical Examples
+ *
+ * @author Ivan Ivanov(whoami)
+ */
 public class Dice
 {
+	private static int dicesCreated = 0;
+	
     int sides;
     String types;
 
@@ -11,6 +18,7 @@ public class Dice
     {
     	this.setSides(sides);
     	this.setTypes(types);
+    	incrementDices();
     }
     
     public Dice(int sides)
@@ -45,4 +53,14 @@ public class Dice
     {
 		return sides;
 	}
+    
+    public static void incrementDices()
+    {
+    	dicesCreated++;
+    }
+    
+    public static int getCountOfCreatedDices()
+    {
+    	return dicesCreated;
+    }
 }

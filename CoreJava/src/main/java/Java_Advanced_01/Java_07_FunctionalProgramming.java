@@ -16,7 +16,7 @@ import java.util.function.UnaryOperator;
 /**
  * Java Functional Programming Practical Examples
  *
- * @author Ivan Ivanov(cryptex)
+ * @author Ivan Ivanov(whoami)
  */
 public class Java_07_FunctionalProgramming 
 {

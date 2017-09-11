@@ -3,7 +3,7 @@ package Java_Advanced_01;
 /**
  * Java String Processing Practical Examples
  *
- * @author Ivan Ivanov(cryptex)
+ * @author Ivan Ivanov(whoami)
  */
 public class Java_05_ManualStringProcessing
 {

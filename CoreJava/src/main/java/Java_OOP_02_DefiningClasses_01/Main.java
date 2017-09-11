@@ -1,6 +1,10 @@
 package Java_OOP_02_DefiningClasses_01;
 
-
+/**
+ * Java Defining Classes Practical Examples
+ *
+ * @author Ivan Ivanov(whoami)
+ */
 public class Main
 {
 
@@ -110,6 +114,19 @@ public class Main
          * You can have multiple constructors in the same class
          */
         Dice dice5 = new Dice(17, "Dice6");
+        Dice deice6 = new Dice(4);
+        
+        
+        /*
+         * Static members 
+         * 
+         * 
+         * They are shared class-wide
+         * Access static members through the class name.
+         * You don't need an instance.
+         */
+        System.out.println("Currently created dices count: " + Dice.getCountOfCreatedDices());
+        
         
     }
 

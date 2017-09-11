@@ -18,7 +18,7 @@ import java.util.Scanner;
 /**
  * Java Files and Streams Practical Examples
  *
- * @author Ivan Ivanov(cryptex)
+ * @author Ivan Ivanov(whoami)
  */
 public class Java_04_Files_And_Streams
 {

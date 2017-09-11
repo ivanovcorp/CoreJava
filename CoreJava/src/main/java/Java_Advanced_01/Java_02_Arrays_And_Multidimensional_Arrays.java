@@ -5,7 +5,7 @@ import java.util.Arrays;
 /**
  * Java Arrays and Multidimensional Arrays Practical Examples
  *
- * @author Ivan Ivanov(cryptex)
+ * @author Ivan Ivanov(whoami)
  */
 public class Java_02_Arrays_And_Multidimensional_Arrays
 {

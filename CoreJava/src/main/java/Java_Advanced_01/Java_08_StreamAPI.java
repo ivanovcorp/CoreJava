@@ -12,7 +12,7 @@ import java.util.stream.Stream;
 /**
  * Java Stream API Practical Examples
  *
- * @author Ivan Ivanov(cryptex)
+ * @author Ivan Ivanov(whoami)
  */
 public class Java_08_StreamAPI 
 {
