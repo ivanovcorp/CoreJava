@@ -1,4 +1,4 @@
-package Java_OOP_02_DefiningClasses_01;
+package Java_OOP_02_01_DefiningClasses;
 
 /**
  * Java Defining Classes Practical Examples

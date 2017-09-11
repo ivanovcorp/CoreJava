@@ -1,4 +1,4 @@
-package Java_OOP_02_Encapsulation;
+package Java_OOP_02_02_Encapsulation;
 
 /**
  * Java Encapsulation Practical Examples

@@ -1,4 +1,4 @@
-package Java_OOP_02_Encapsulation;
+package Java_OOP_02_02_Encapsulation;
 
 /**
  * Java Encapsulation Practical Examples
@@ -75,9 +75,45 @@ public class Main
 		System.out.println();
 		Employee e1 = new Employee("Pesho", 872.23);
 		System.out.println("Employee1: " + e1.getName() + " " + e1.getSalary());
-		Employee e2 = new Employee("Gosho", 72.23);
+		//Employee e2 = new Employee("Gosho", 72.23);
 		//System.out.println("Employee2: " + e2.getName() + " " + e2.getSalary()); // Throws exception from validation.
-		// 24 slide.
+		
+		
+		
+		/*
+		 * Immutable Objects
+		 * 
+		 * 
+		 * When you have a reference to an instance of an object, the contents
+		 * of that instance CANNOT be altered.
+		 */
+		
+		/*
+		 * Mutable Objects
+		 * 
+		 * 
+		 * When you have a reference to an instance of an object,
+		 * the contents of that instance can be altered.
+		 */
+		
+		
+		/*
+		 * Keyword "final"
+		 * 
+		 * 
+		 * "final" class can NOT be extended.
+		 * "final" method can NOT be overriden
+		 * "final" variable can NOT be changed once it is set.
+		 */
+		
+		/*
+		 * Encapsulation Benefits
+		 * 
+		 * 
+		 * Reduces complexity
+		 * Structural changes remain local
+		 * Allows validations and data binding.
+		 */
 	}
 
 }
