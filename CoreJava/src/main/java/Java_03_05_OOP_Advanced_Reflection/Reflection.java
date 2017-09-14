@@ -2,6 +2,11 @@ package Java_03_05_OOP_Advanced_Reflection;
 
 import java.io.Serializable;
 
+/**
+ * Java Reflection Practical Examples
+ *
+ * @author Ivan Ivanov(whoami)
+ */
 public class Reflection implements Serializable {
 
     private static final String nickName = "Pinguin";
@@ -17,7 +22,7 @@ public class Reflection implements Serializable {
         this.setZip(1407);
     }
 
-    private Reflection(String name, String webAddress, String email) {
+    public Reflection(String name, String webAddress, String email) {
         this.setName(name);
         this.setWebAddress(webAddress);
         this.setEmail(email);
@@ -39,7 +44,7 @@ public class Reflection implements Serializable {
         this.name = name;
     }
 
-    protected String getWebAddress() {
+    public String getWebAddress() {
         return webAddress;
     }
 
