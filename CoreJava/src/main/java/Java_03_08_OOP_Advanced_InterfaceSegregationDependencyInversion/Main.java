@@ -52,5 +52,20 @@ public class Main
          * - Email                          - System.in / System.out
          * - Web service                    - System resource(e.g. clock)
          */
+    	
+    	/*
+    	 * How to DIP?
+    	 * 
+    	 * 
+    	 * Constructor injection
+    	 * 	- dependencies are passed through constructors
+    	 * Pros 
+    	 * 	- classes self-documenting requirments
+    	 * 	- works well without container
+    	 *  - always valid state
+    	 * Cons
+    	 * 	- many parameters
+    	 *  - some methods may not need everything	
+    	 */
     }
 }
